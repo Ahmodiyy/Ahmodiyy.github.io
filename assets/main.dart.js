@@ -56114,7 +56114,7 @@ A.a4L.prototype={
 $0(){return A.kD(A.j2("https://github.com/Ahmodiyy/",0,null))},
 $S:26}
 A.a4M.prototype={
-$0(){return A.kD(A.j2("https://github.com/Ahmodiyy/",0,null))},
+$0(){return A.kD(A.j2("https://twitter.com/Ahmodiyy",0,null))},
 $S:26}
 A.a4N.prototype={
 $0(){return A.kD(A.j2("https://github.com/Ahmodiyy/",0,null))},
